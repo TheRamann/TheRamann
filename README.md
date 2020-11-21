@@ -2,7 +2,7 @@
 
 I am Ramann and would love to talk to you 💬 <p>
        Add me on <b> discord TheRamann#1266 </b> and maybe we could play some games together🤷‍♂️</p>
-       [![Discord](https://images-eu.ssl-images-amazon.com/images/I/51lpm9SpsJL.png)](https://discordapp.com/users/537230099121045504) - <br>
+       [![Discord](https://i.imgur.com/69wodaj.png) - <br>
 
 # I'm currently learning
 
