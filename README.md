@@ -10,4 +10,3 @@ I am Ramann and would love to talk to you 💬 <p>
 💜C# <br>
 💜3D Models Development <br>
 💜Bash <br>
-![Discord](https://i.imgur.com/5CLZmGB.png)
