@@ -7,9 +7,14 @@
 I am Ramann and would love to talk to you 💬 <p>
 Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> <b>Han Seo-jun#1266 </a></b> and maybe we could play some games together🤷‍♂️</p>
 
-# I'm currently learning
+# I'm currently learning 👨‍🎓
 
 💜NodeJS <br>
 💜C# <br>
 💜3D Models Development <br>
 💜Bash <br>
+
+# Github Stats 📈
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=gotham" /> <br>
+# Most used languages 👨‍💻
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRamann" />
