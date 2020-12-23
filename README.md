@@ -9,10 +9,10 @@ Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> 
 
 # I'm currently learning <img src="https://cdn.discordapp.com/emojis/722080155413250148.png?v=1" alt = "👨‍🎓" width="28px">
 
-💜NodeJS <br>
-💜C# <br>
-💜3D Models Development <br>
-💜Bash <br>
+<img src="https://cdn.discordapp.com/emojis/762224193793818625.png?v=1" alt = "💜" width="20px"> NodeJS <br>
+<img src="https://cdn.discordapp.com/emojis/762224193793818625.png?v=1" alt = "💜" width="20px"> C# <br>
+<img src="https://cdn.discordapp.com/emojis/762224193793818625.png?v=1" alt = "💜" width="20px"> 3D Models Development <br>
+<img src="https://cdn.discordapp.com/emojis/762224193793818625.png?v=1" alt = "💜" width="20px"> Bash <br>
 
 # Github Stats <img src="https://cdn.discordapp.com/emojis/638869604332077067.gif?v=1" alt = "📈" width="28px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=gotham" /> <br>
