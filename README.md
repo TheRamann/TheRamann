@@ -17,4 +17,4 @@ Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> 
 # Github Stats 📈
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=gotham" /> <br>
 # Most used languages 👨‍💻
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRamann" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRamann&theme=gotham" />
