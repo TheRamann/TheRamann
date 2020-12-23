@@ -14,7 +14,7 @@ Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> 
 💜3D Models Development <br>
 💜Bash <br>
 
-# Github Stats <img src="https://cdn.discordapp.com/emojis/746601324396806205.png?v=1" alt = "📈" width="28px">
+# Github Stats <img src="https://cdn.discordapp.com/emojis/638869604332077067.gif?v=1" alt = "📈" width="28px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=gotham" /> <br>
 # Most used languages <img src="https://cdn.discordapp.com/emojis/785174903094640647.gif?v=1" alt = "👨‍💻" width="28px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRamann&theme=gotham" />
