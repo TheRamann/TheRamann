@@ -13,6 +13,7 @@ Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> 
 <img src="https://cdn.discordapp.com/emojis/762224193793818625.png?v=1" alt = "💜" width="20px"> C# <br>
 <img src="https://cdn.discordapp.com/emojis/762224193793818625.png?v=1" alt = "💜" width="20px"> 3D Models Development <br>
 <img src="https://cdn.discordapp.com/emojis/762224193793818625.png?v=1" alt = "💜" width="20px"> Bash <br>
+<img src="https://cdn.discordapp.com/emojis/762224193793818625.png?v=1" alt = "💜" width="20px"> Python <br>
 
 # Github Stats <img src="https://cdn.discordapp.com/emojis/638869604332077067.gif?v=1" alt = "📈" width="28px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=gotham" /> <br>
