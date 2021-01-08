@@ -5,7 +5,7 @@
 <a href = "https://www.reddit.com/user/the_ramann"><img align ="left" alt = "Reddit !!" width = "30px" src= "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" /> </a>
 <p><br><br>
 I am Ramann and would love to talk to you 💬 <p>
-Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> <b>TheRamann#0001 </a></b> and maybe we could play some games together🤷‍♂️</p>
+Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> <b>Han Seojun#0001 </a></b> and maybe we could play some games together🤷‍♂️</p>
 
 # I'm currently learning <img src="https://cdn.discordapp.com/emojis/722080155413250148.png?v=1" alt = "👨‍🎓" width="28px">
 
