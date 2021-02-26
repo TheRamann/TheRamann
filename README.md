@@ -13,5 +13,10 @@ Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> 
 
 # Github Stats <img src="https://cdn.discordapp.com/emojis/638869604332077067.gif?v=1" alt = "📈" width="28px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=tokyonight " /> <br>
+
 # Most used languages <img src="https://cdn.discordapp.com/emojis/726358123341676564.png?v=1" alt = "👨‍💻" width="28px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRamann&theme=tokyonight " />
+
+<!-- # Some Repos
+<a href = "https://github.com/TheRamann/TheRamann"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=TheRamann&repo=TheRamann&theme=tokyonight"></a>
+<a href = "https://github.com/TheRamann/animedoro"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=TheRamann&repo=animedoro&theme=tokyonight"> </a> 
