@@ -5,7 +5,7 @@
 <a href = "https://www.npmjs.com/~the_ramann/"><img align ="left" alt = "Npm !!" width = "30px" src= "https://authy.com/wp-content/uploads/npm-logo.png" /> </a>
 <a href = "https://www.buymeacoffee.com/TheRamann"><img align ="left" alt = "Npm !!" width = "30px" src= "https://pbs.twimg.com/profile_images/1344574325383335939/K88G22An.jpg" /> </a>
 <a href = "https://www.fiverr.com/han_seojun"><img align ="left" alt = "Npm !!" width = "30px" src= "https://media-exp1.licdn.com/dms/image/C4D0BAQGn83K-E9OoOQ/company-logo_200_200/0/1599659390441?e=2159024400&v=beta&t=DFXQumpYJHs5XQU4z-8-rdkUPpVfSajPPgwLingRbOc" /> </a>
-<a href = ""> <img src = "https://visitor-badge.glitch.me/badge?page_id=TheRamann"> </a>
+<!-- <a href = ""> <img src = "https://visitor-badge.glitch.me/badge?page_id=TheRamann"> </a> -->
 <br>
 
 <p><br>
