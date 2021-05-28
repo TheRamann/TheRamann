@@ -10,7 +10,7 @@
 
 <p><br>
 I am Ramann and would love to talk to you 💬 <p>
-Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> <b>Han Seojun#1706 </a></b> and maybe we could play some games together🤷‍♂️</p>
+Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> <b>THE RAMANNNNNNNNNNNNNNNNNNNNNNNN#1706</a></b> and maybe we could play some games together🤷‍♂️</p>
 
 # Github Stats <img src="https://cdn.discordapp.com/emojis/638869604332077067.gif?v=1" alt = "📈" width="28px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=tokyonight " /> <br>
