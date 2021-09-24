@@ -12,8 +12,8 @@
 I am Ramann and would love to talk to you 💬 <p>
 Add me on  discord <a href = "https://discordapp.com/users/537230099121045504"> <b>THE RAMANNNNNNNNNNNNNNNNNNNNNNNN#1706</a></b> and maybe we could play some games together🤷‍♂️</p>
 
-# Github Stats <img src="https://cdn.discordapp.com/emojis/638869604332077067.gif?v=1" alt = "📈" width="28px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=tokyonight " /> <br>
+<!-- # Github Stats <img src="https://cdn.discordapp.com/emojis/638869604332077067.gif?v=1" alt = "📈" width="28px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=tokyonight " /> <br> -->
 
 # Repositories <img src = "https://cdn.discordapp.com/emojis/603768685425065997.gif?v=1" width = "28">
 To Check Out My Repositories, Use https://TheRamann.github.io/projects <br> <a href = "https://theramann.github.io/projects">
