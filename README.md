@@ -13,7 +13,7 @@
 
 # Repositories <img src = "https://cdn.discordapp.com/emojis/603768685425065997.gif?v=1" width = "28">
 To Check Out My Repositories, Use https://TheRamann.github.io/projects <br> <a href = "https://theramann.github.io/projects">
-<img src = "https://github.com/TheRamann/TheRamann/blob/main/Assets/My%20Projects.png?raw=true" width = "750"> </a>
+<!-- <img src = "https://github.com/TheRamann/TheRamann/blob/main/Assets/My%20Projects.png?raw=true" width = "750"> </a> -->
   
 <!-- # Most used languages <img src="https://cdn.discordapp.com/emojis/779240343739695115.png?v=1" alt = "👨‍💻" width="28px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRamann&theme=tokyonight " /> -->
