@@ -2,11 +2,13 @@
 <a href = "https://discordapp.com/users/537230099121045504"><img align ="left" alt = "My Discord Profile" width = "30px" src= "https://play-lh.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA=s180-rw" /> </a>
 <a href = "https://open.spotify.com/user/31vsqrovxe663sqf3wjit4q7tupm"><img align ="left" alt = "Spotify!!" width = "30px" src= "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM=s180-rw" /> </a> 
 <a href = "https://steamcommunity.com/id/theramann/"><img align ="left" alt = "Steam!!" width = "30px" src= "https://play-lh.googleusercontent.com/52_DMY5417awaEgJf3_9mWgEuO2t1JfkGab8kM-LD6l5u6cGm_1-GsoQ_IyWFHdbkA=s180-rw" /> </a>
-<a href = "https://www.npmjs.com/~the_ramann/"><img align ="left" alt = "Npm !!" width = "30px" src= "https://authy.com/wp-content/uploads/npm-logo.png" /> </a>
+<a href = "https://www.npmjs.com/~the_ramann/"><img align ="left" alt = "Npm !!" width = "40px" src= "https://media.licdn.com/dms/image/v2/D4D12AQFKG_zypvStQQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1659251174924?e=2147483647&v=beta&t=GPpQjzXp02YJDdUIrGEacfMNPICBWjd8rOl0-B2nfKU" /> </a>
 <a href = "https://www.buymeacoffee.com/TheRamann"><img align ="left" alt = "Npm !!" width = "30px" src= "https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" /> </a>
 <a href = "https://www.fiverr.com/han_seojun"><img align ="left" alt = "Npm !!" width = "30px" src= "https://media-exp1.licdn.com/dms/image/C4D0BAQGn83K-E9OoOQ/company-logo_200_200/0/1599659390441?e=2159024400&v=beta&t=DFXQumpYJHs5XQU4z-8-rdkUPpVfSajPPgwLingRbOc" /> </a>
 <!-- <a href = ""> <img src = "https://visitor-badge.glitch.me/badge?page_id=TheRamann"> </a> -->
 <br>
+
+
 
 <!-- # Github Stats <img src="https://cdn.discordapp.com/emojis/638869604332077067.gif?v=1" alt = "📈" width="28px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheRamann&theme=tokyonight " /> <br> -->
