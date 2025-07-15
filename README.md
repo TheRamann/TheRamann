@@ -3,7 +3,8 @@
 <a href = "https://open.spotify.com/user/31vsqrovxe663sqf3wjit4q7tupm"><img align ="left" alt = "Spotify!!" width = "30px" src= "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM=s180-rw" /> </a> 
 <a href = "https://steamcommunity.com/id/theramann/"><img align ="left" alt = "Steam!!" width = "30px" src= "https://play-lh.googleusercontent.com/52_DMY5417awaEgJf3_9mWgEuO2t1JfkGab8kM-LD6l5u6cGm_1-GsoQ_IyWFHdbkA=s180-rw" /> </a>
 <a href = "https://www.npmjs.com/~the_ramann/"><img align ="left" alt = "Npm !!" width = "40px" src= "https://media.licdn.com/dms/image/v2/D4D12AQFKG_zypvStQQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1659251174924?e=2147483647&v=beta&t=GPpQjzXp02YJDdUIrGEacfMNPICBWjd8rOl0-B2nfKU" /> </a>
-<a href = "https://www.buymeacoffee.com/TheRamann"><img align ="left" alt = "Npm !!" width = "30px" src= "https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" /> </a>
+<a href = "https://www.buymeacoffee.com/TheRamann"><img align ="left" alt = "Coffee !!" width = "30px" src= "https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" /> </a>
+<a herf = "https://www.instagram.com/the_ramann/"><img align ="left" alt = Instagram!!" width = "30px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /> </a>
 <!-- <a href = ""> <img src = "https://visitor-badge.glitch.me/badge?page_id=TheRamann"> </a> -->
 <br>
 
